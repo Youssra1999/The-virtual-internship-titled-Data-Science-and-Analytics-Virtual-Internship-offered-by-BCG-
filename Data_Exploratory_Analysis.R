@@ -1,5 +1,3 @@
-install.packages("patchwork")
-
 # Load required libraries
 library(tidyverse)
 
