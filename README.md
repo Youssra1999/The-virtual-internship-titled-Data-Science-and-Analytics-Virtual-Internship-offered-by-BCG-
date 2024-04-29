@@ -4,8 +4,6 @@
 
 ## Introduction
 
-🌟 **Curious Problem Solver Passionate About Data, Programming, and AI** 🌟
-
 Greetings! I'm excited to dive into the dynamic world of data science and analytics through the 'Data Science and Analytics Virtual Experience Program' offered by BCG. With a keen interest in exploring real-world data challenges and a fervent passion for data, programming, and AI, I'm ready to leverage my skills and delve into the exciting realm of data-driven insights.
 
 ## Why Data Science and Analytics?
